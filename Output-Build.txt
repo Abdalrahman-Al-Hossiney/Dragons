@@ -1,0 +1,6 @@
+﻿Build started at 1:40 AM...
+1>------ Build started: Project: Dragon1, Configuration: Debug x64 ------
+1>Source.cpp
+1>Dragon1.vcxproj -> C:\Users\abdoh\OneDrive\Desktop\Dragon1\Dragon1\x64\Debug\Dragon1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 1:40 AM and took 00.857 seconds ==========
